@@ -23,5 +23,5 @@
 - requests
 ### Important Note: 
 - *to clone use command - `git clone https://github.com/AbhadiMishra/Web_Scraping_bs4.git`*
-- *Do check requirements.txt - to install all dependencies at once use command `pip install requirements.txt`*
+- *Do check requirements.txt - to install all dependencies at once use command `pip install -r requirements.txt`*
       
