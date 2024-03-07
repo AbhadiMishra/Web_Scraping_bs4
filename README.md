@@ -4,7 +4,7 @@
 
 ### Files:
 
-- **Main Code File**: `scrape.ipynb`
+- **Main Code File**: **`available soon`**
 - **Scraped Website**: `https://news.ycombinator.com/`
 
 ### Remarks:
